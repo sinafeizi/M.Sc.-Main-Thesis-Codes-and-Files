@@ -1,8 +1,13 @@
 ACO.py -> runs my proposed Ant Colony Optimization algorithm for solving The Crew Pairing Problem as Set Covering Problem.
+
 ACO_old.py -> runs the Ant Colony Optimization algorithm existing in the literature for solving the same problem.
+
 GA_2018 -> runs the latest variation of the Genetic Algorithm existing in the literature for solving the same problem.
+
 GA_functions -> runs a basic and simple variation the Genetic Algorithm existing in the literature for solving the same problem.
+
 PSO_functions -> runs a binary-modified version of the Particle Swarm Optimization Algorithm for solving the same problem.
+
 functions.py -> contains the main functions created and used in other scripts.
 
 filtering 1day 1small ailline.py -> this is script that shows how I extracted the flights of one airline and created an instance of the problem.
