@@ -18,7 +18,7 @@ all_flights_158_lines.txt -> this is a demonstration on how all flights in an in
 
 all_pairings_706_lines.txt -> this is a demonstration on how all pairings in an instance look.
 
-get_all_examples.py -> this script extracts all 12 instances of the problem.
+get_all_examples.py -> this script extracts all 12 instances of the problem from the main data file.
 
 small_1.txt -> contains the flights of the 1st small instance.
 
