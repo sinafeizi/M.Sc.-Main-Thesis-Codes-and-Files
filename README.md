@@ -24,6 +24,8 @@ all_pairings_706_lines.txt -> this is a demonstration on how all pairings in an 
 
 get_all_examples.py -> this script extracts all 12 instances of the problem from the main data file.
 
+------------------------------------------------------------------------
+
 small_1.txt -> contains the flights of the 1st small instance.
 
 small_2.txt -> contains the flights of the 2nd small instance.
@@ -49,6 +51,8 @@ large_3.txt -> contains the flights of the 3rd large instance.
 large_4.txt -> contains the flights of the 4th large instance.
 
 Run_all_Solutions.py -> this is a script that runs all 5 algorithms for all instances.
+
+------------------------------------------------------------------------
 
 results_ACO.txt -> contains the results of my proposed Ant Colony Optimization algorithm
 
