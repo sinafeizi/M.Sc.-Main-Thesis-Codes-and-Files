@@ -14,15 +14,15 @@ functions.py -> contains the main functions created and used in other scripts.
 
 ------------------------------------------------------------------------
 
-filtering 1day 1small ailline.py -> this is script that shows how I extracted the flights of one airline and created an instance of the problem.
+filtering 1day 1small ailline.py -> this is a script that shows how I extracted the flights of one airline and created an instance of the problem.
+
+get_all_examples.py -> this script extracts all 12 instances of the problem from the main data file.
 
 Main.py -> transforms the instances extracted from the main data file into a format that can be used in the 5 algorithm scripts.
 
 all_flights_158_lines.txt -> this is a demonstration on how all flights in an instance look.
 
 all_pairings_706_lines.txt -> this is a demonstration on how all pairings in an instance look.
-
-get_all_examples.py -> this script extracts all 12 instances of the problem from the main data file.
 
 ------------------------------------------------------------------------
 
